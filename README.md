@@ -163,7 +163,23 @@ For each circuit, record:
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 <img width="657" height="303" alt="image" src="https://github.com/user-attachments/assets/b7344e2e-03e1-4b34-9790-079117b707ef" />
 
-
+I1   ,I2   ,I3   ,I4   ,OUTPUT
+false,false,false,false,false
+false,false,false,true ,false
+false,false,true ,false,false
+false,false,true ,true ,true
+false,true ,false,false,false
+false,true ,false,true ,false
+false,true ,true ,false ,true
+false,true ,true ,true ,true
+true ,false,false,false,false
+true ,false,false,true ,true
+true ,false,true ,false,false
+true ,false,true ,true ,true
+true ,true ,false,false ,true
+true ,true ,false,true ,true
+true ,true ,true ,false ,true
+true ,true ,true ,true ,false
 
 
  
