@@ -161,6 +161,7 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
+<img width="657" height="303" alt="image" src="https://github.com/user-attachments/assets/b7344e2e-03e1-4b34-9790-079117b707ef" />
 
 
 
