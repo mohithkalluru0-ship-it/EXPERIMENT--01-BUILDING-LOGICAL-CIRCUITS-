@@ -183,7 +183,23 @@ true ,true ,true ,true ,false
 
 exp-2
 <img width="1581" height="886" alt="WhatsApp Image 2026-10-27 at 4 31 48 PM" src="https://github.com/user-attachments/assets/57eb64ed-b503-46ab-93bc-9558a55f4563" />
-
+I1,I2,I3,I4,O1
+false,false,false,false,true
+false,false,false,true,true
+false,false,true,false,true
+false,false,true,true,false
+false,true,false,false,false
+false,true,false,true,false
+false,true,true,false,true
+false,true,true,true,true
+true,false,false,false,false
+true,false,false,true,true
+true,false,true,false,false
+true,false,true,true,false
+true,true,false,false,true
+true,true,false,true,true
+true,true,true,false,true
+true,true,true,true,true
 
 
  
